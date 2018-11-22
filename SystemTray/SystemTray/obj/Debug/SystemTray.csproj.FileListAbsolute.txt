@@ -1,0 +1,10 @@
+C:\Users\ensody\Desktop\sync\proj\Lab_4\SystemTray\SystemTray\bin\Debug\SystemTray.exe.config
+C:\Users\ensody\Desktop\sync\proj\Lab_4\SystemTray\SystemTray\bin\Debug\SystemTray.exe
+C:\Users\ensody\Desktop\sync\proj\Lab_4\SystemTray\SystemTray\bin\Debug\SystemTray.pdb
+C:\Users\ensody\Desktop\sync\proj\Lab_4\SystemTray\SystemTray\obj\Debug\SystemTray.csprojAssemblyReference.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_4\SystemTray\SystemTray\obj\Debug\SystemTray.Form1.resources
+C:\Users\ensody\Desktop\sync\proj\Lab_4\SystemTray\SystemTray\obj\Debug\SystemTray.Properties.Resources.resources
+C:\Users\ensody\Desktop\sync\proj\Lab_4\SystemTray\SystemTray\obj\Debug\SystemTray.csproj.GenerateResource.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_4\SystemTray\SystemTray\obj\Debug\SystemTray.csproj.CoreCompileInputs.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_4\SystemTray\SystemTray\obj\Debug\SystemTray.exe
+C:\Users\ensody\Desktop\sync\proj\Lab_4\SystemTray\SystemTray\obj\Debug\SystemTray.pdb

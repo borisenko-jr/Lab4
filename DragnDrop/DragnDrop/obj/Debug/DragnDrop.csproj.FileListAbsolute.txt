@@ -1,0 +1,10 @@
+C:\Users\ensody\Documents\vsprojects\DragnDrop\DragnDrop\bin\Debug\DragnDrop.exe.config
+C:\Users\ensody\Documents\vsprojects\DragnDrop\DragnDrop\bin\Debug\DragnDrop.exe
+C:\Users\ensody\Documents\vsprojects\DragnDrop\DragnDrop\bin\Debug\DragnDrop.pdb
+C:\Users\ensody\Documents\vsprojects\DragnDrop\DragnDrop\obj\Debug\DragnDrop.csprojAssemblyReference.cache
+C:\Users\ensody\Documents\vsprojects\DragnDrop\DragnDrop\obj\Debug\DragnDrop.Form1.resources
+C:\Users\ensody\Documents\vsprojects\DragnDrop\DragnDrop\obj\Debug\DragnDrop.Properties.Resources.resources
+C:\Users\ensody\Documents\vsprojects\DragnDrop\DragnDrop\obj\Debug\DragnDrop.csproj.GenerateResource.cache
+C:\Users\ensody\Documents\vsprojects\DragnDrop\DragnDrop\obj\Debug\DragnDrop.csproj.CoreCompileInputs.cache
+C:\Users\ensody\Documents\vsprojects\DragnDrop\DragnDrop\obj\Debug\DragnDrop.exe
+C:\Users\ensody\Documents\vsprojects\DragnDrop\DragnDrop\obj\Debug\DragnDrop.pdb

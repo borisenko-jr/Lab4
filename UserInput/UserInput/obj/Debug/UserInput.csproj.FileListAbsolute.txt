@@ -1,0 +1,8 @@
+C:\Users\ensody\Desktop\sync\proj\Lab_4\UserInput\UserInput\bin\Debug\UserInput.pdb
+C:\Users\ensody\Desktop\sync\proj\Lab_4\UserInput\UserInput\obj\Debug\UserInput.csprojAssemblyReference.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_4\UserInput\UserInput\obj\Debug\UserInput.csproj.CoreCompileInputs.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_4\UserInput\UserInput\obj\Debug\UserInput.pdb
+C:\Users\ensody\Desktop\sync\proj\Lab_4\UserInput\UserInput\obj\Debug\UserInput.UserControl1.resources
+C:\Users\ensody\Desktop\sync\proj\Lab_4\UserInput\UserInput\obj\Debug\UserInput.csproj.GenerateResource.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_4\UserInput\UserInput\bin\Debug\UserInput.dll
+C:\Users\ensody\Desktop\sync\proj\Lab_4\UserInput\UserInput\obj\Debug\UserInput.dll

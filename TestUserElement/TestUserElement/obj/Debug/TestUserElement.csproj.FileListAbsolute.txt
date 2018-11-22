@@ -1,0 +1,9 @@
+C:\Users\ensody\source\repos\TestUserElement\TestUserElement\bin\Debug\TestUserElement.exe.config
+C:\Users\ensody\source\repos\TestUserElement\TestUserElement\bin\Debug\TestUserElement.exe
+C:\Users\ensody\source\repos\TestUserElement\TestUserElement\bin\Debug\TestUserElement.pdb
+C:\Users\ensody\source\repos\TestUserElement\TestUserElement\obj\Debug\TestUserElement.csprojAssemblyReference.cache
+C:\Users\ensody\source\repos\TestUserElement\TestUserElement\obj\Debug\TestUserElement.Properties.Resources.resources
+C:\Users\ensody\source\repos\TestUserElement\TestUserElement\obj\Debug\TestUserElement.csproj.GenerateResource.cache
+C:\Users\ensody\source\repos\TestUserElement\TestUserElement\obj\Debug\TestUserElement.csproj.CoreCompileInputs.cache
+C:\Users\ensody\source\repos\TestUserElement\TestUserElement\obj\Debug\TestUserElement.exe
+C:\Users\ensody\source\repos\TestUserElement\TestUserElement\obj\Debug\TestUserElement.pdb

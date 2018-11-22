@@ -1,0 +1,10 @@
+C:\Users\ensody\Desktop\sync\proj\Lab_4\RegistrySettings\RegistrySettings\bin\Debug\RegistrySettings.exe.config
+C:\Users\ensody\Desktop\sync\proj\Lab_4\RegistrySettings\RegistrySettings\bin\Debug\RegistrySettings.exe
+C:\Users\ensody\Desktop\sync\proj\Lab_4\RegistrySettings\RegistrySettings\bin\Debug\RegistrySettings.pdb
+C:\Users\ensody\Desktop\sync\proj\Lab_4\RegistrySettings\RegistrySettings\obj\Debug\RegistrySettings.csprojAssemblyReference.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_4\RegistrySettings\RegistrySettings\obj\Debug\RegistrySettings.Form1.resources
+C:\Users\ensody\Desktop\sync\proj\Lab_4\RegistrySettings\RegistrySettings\obj\Debug\RegistrySettings.Properties.Resources.resources
+C:\Users\ensody\Desktop\sync\proj\Lab_4\RegistrySettings\RegistrySettings\obj\Debug\RegistrySettings.csproj.GenerateResource.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_4\RegistrySettings\RegistrySettings\obj\Debug\RegistrySettings.csproj.CoreCompileInputs.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_4\RegistrySettings\RegistrySettings\obj\Debug\RegistrySettings.exe
+C:\Users\ensody\Desktop\sync\proj\Lab_4\RegistrySettings\RegistrySettings\obj\Debug\RegistrySettings.pdb

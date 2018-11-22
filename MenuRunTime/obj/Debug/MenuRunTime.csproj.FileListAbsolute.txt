@@ -1,0 +1,8 @@
+C:\Users\ensody\Desktop\MenuRunTime\bin\Debug\MenuRunTime.exe
+C:\Users\ensody\Desktop\MenuRunTime\bin\Debug\MenuRunTime.pdb
+C:\Users\ensody\Desktop\MenuRunTime\obj\Debug\MenuRunTime.csprojAssemblyReference.cache
+C:\Users\ensody\Desktop\MenuRunTime\obj\Debug\MenuRunTime.Form1.resources
+C:\Users\ensody\Desktop\MenuRunTime\obj\Debug\MenuRunTime.csproj.GenerateResource.cache
+C:\Users\ensody\Desktop\MenuRunTime\obj\Debug\MenuRunTime.csproj.CoreCompileInputs.cache
+C:\Users\ensody\Desktop\MenuRunTime\obj\Debug\MenuRunTime.exe
+C:\Users\ensody\Desktop\MenuRunTime\obj\Debug\MenuRunTime.pdb

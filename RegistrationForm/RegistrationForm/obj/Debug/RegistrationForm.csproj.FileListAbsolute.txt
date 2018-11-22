@@ -1,0 +1,9 @@
+C:\Users\ensody\Documents\vsprojects\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.exe.config
+C:\Users\ensody\Documents\vsprojects\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.exe
+C:\Users\ensody\Documents\vsprojects\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.pdb
+C:\Users\ensody\Documents\vsprojects\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.Form1.resources
+C:\Users\ensody\Documents\vsprojects\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.Properties.Resources.resources
+C:\Users\ensody\Documents\vsprojects\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csproj.GenerateResource.cache
+C:\Users\ensody\Documents\vsprojects\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\ensody\Documents\vsprojects\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.exe
+C:\Users\ensody\Documents\vsprojects\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.pdb

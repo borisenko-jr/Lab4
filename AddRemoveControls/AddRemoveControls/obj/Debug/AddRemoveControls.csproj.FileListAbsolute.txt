@@ -1,0 +1,10 @@
+C:\Users\ensody\Documents\vsprojects\AddRemoveControls\AddRemoveControls\bin\Debug\AddRemoveControls.exe.config
+C:\Users\ensody\Documents\vsprojects\AddRemoveControls\AddRemoveControls\bin\Debug\AddRemoveControls.exe
+C:\Users\ensody\Documents\vsprojects\AddRemoveControls\AddRemoveControls\bin\Debug\AddRemoveControls.pdb
+C:\Users\ensody\Documents\vsprojects\AddRemoveControls\AddRemoveControls\obj\Debug\AddRemoveControls.csprojAssemblyReference.cache
+C:\Users\ensody\Documents\vsprojects\AddRemoveControls\AddRemoveControls\obj\Debug\AddRemoveControls.Form1.resources
+C:\Users\ensody\Documents\vsprojects\AddRemoveControls\AddRemoveControls\obj\Debug\AddRemoveControls.Properties.Resources.resources
+C:\Users\ensody\Documents\vsprojects\AddRemoveControls\AddRemoveControls\obj\Debug\AddRemoveControls.csproj.GenerateResource.cache
+C:\Users\ensody\Documents\vsprojects\AddRemoveControls\AddRemoveControls\obj\Debug\AddRemoveControls.csproj.CoreCompileInputs.cache
+C:\Users\ensody\Documents\vsprojects\AddRemoveControls\AddRemoveControls\obj\Debug\AddRemoveControls.exe
+C:\Users\ensody\Documents\vsprojects\AddRemoveControls\AddRemoveControls\obj\Debug\AddRemoveControls.pdb

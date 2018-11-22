@@ -1,0 +1,8 @@
+C:\Users\ensody\Desktop\ValidatingInput\bin\Debug\RegistrationForm.exe
+C:\Users\ensody\Desktop\ValidatingInput\bin\Debug\RegistrationForm.pdb
+C:\Users\ensody\Desktop\ValidatingInput\obj\Debug\RegistrationForm.csprojAssemblyReference.cache
+C:\Users\ensody\Desktop\ValidatingInput\obj\Debug\RegistrationForm.Form1.resources
+C:\Users\ensody\Desktop\ValidatingInput\obj\Debug\RegistrationForm.csproj.GenerateResource.cache
+C:\Users\ensody\Desktop\ValidatingInput\obj\Debug\RegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\ensody\Desktop\ValidatingInput\obj\Debug\RegistrationForm.exe
+C:\Users\ensody\Desktop\ValidatingInput\obj\Debug\RegistrationForm.pdb
